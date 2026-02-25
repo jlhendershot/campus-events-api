@@ -38,3 +38,4 @@ API requests are limited to 1000 requests per hour per API key.
 ## Support
 
 For technical support, email api-support@campusevents.example.com
+
