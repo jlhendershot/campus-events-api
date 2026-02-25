@@ -5,7 +5,7 @@ Version 1.0 | Last Updated February 2026
 The Campus Events API allows developers to programmatically manage campus events, including academic sessions, student activities, and community gatherings. This RESTful API provides endpoints for creating, reading, updating, and deleting event information.
 
 ## Base URL
-https://api.campusevents.example.com/v1
+[Campus Events API](https://api.campusevents.example.com/v1)
 
 ## Authentication
 All API requests require authentication using an API key in the request header: Bearer YOUR_API_KEY
@@ -17,8 +17,6 @@ To obtain an API key, contact your campus administrator.
 1. Obtain your API key.
 2. Make a test request to '/events' to retrieve all events.
 3. Review the endpoint documentation below for detailed usage.
-
-## Available Endpoints
 
 ## Available Endpoints
 
