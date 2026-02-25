@@ -1,6 +1,6 @@
 # Campus Events API Documentation
 
-📚 **[View Documentation](https://yourusername.github.io/campus-events-api/)**
+📚 **[View Documentation](https://JLHendershot.github.io/campus-events-api/)**
 
 ## About This Project
 
