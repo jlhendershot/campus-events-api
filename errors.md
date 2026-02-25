@@ -1,5 +1,3 @@
-# Errors
-
 ## HTTP Status Codes
 
 The Campus Events API uses standard HTTP status codes:
