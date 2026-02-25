@@ -1,4 +1,3 @@
-# Campus Events API Documentation
 [Endpoints](./endpoints) | [Errors](./errors)
 
 Version 1.0 | Last Updated February 2026
