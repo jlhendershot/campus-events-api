@@ -1,6 +1,4 @@
-[Endpoints](./endpoints) | [Errors](./errors)
-
-Version 1.0 | Last Updated February 2026
+Version 1.0 - Last Updated February 2026
 
 ## Overview
 The Campus Events API allows developers to programmatically manage campus events, including academic sessions, student activities, and community gatherings. This RESTful API provides endpoints for creating, reading, updating, and deleting event information.
