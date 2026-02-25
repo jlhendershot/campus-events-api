@@ -1,0 +1,9 @@
+title: Campus Events API
+description: Documentation for the Campus Events API
+theme: jekyll-theme-cayman
+
+# Navigation
+header_pages: 
+  - index.md
+  - endpoints.md
+  - errors.md
