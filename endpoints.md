@@ -1,5 +1,3 @@
-# API Endpoints
-
 ## GET /events
 
 Retrieves a list of all campus events.
