@@ -1,8 +1,3 @@
----
-layout: default
-title: Endpoints
----
-
 # API Endpoints
 
 ## GET /events
