@@ -1,3 +1,8 @@
+---
+layout: default
+title: Endpoints
+---
+
 # Campus Events API Documentation
 Version 1.0 | Last Updated February 2026
 
