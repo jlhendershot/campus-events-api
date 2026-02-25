@@ -1,9 +1,3 @@
-yaml
----
-layout: default
-title: Errors
----
-
 # Error Handling
 
 ## HTTP Status Codes
